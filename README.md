@@ -6,7 +6,7 @@ incorporated so far are C# and Sql Server.I also took courses in a self-taught w
 
 You can follow me in the next sites/plataforms.
 - 📷 [Instagram](https://www.instagram.com/facu_carollo/)
-- 📧 [Email](facuscarollo@gmail.com)
+- 📧 [Email: facuscarollo@gmail.com]
 - 📫 [Linkedin](https://www.linkedin.com/in/facundo-salvador-carollo-a54236174/).
 
 
