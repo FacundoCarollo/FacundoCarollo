@@ -1,11 +1,17 @@
- 'Hello Word!! 👋'
+ 'Hola Mundo!! 👋'
 
-I am currently studying the Higher Technician in Systems Analysis. The technologies incorporated so far are C#.net and Sql Server, Javascript,Typescript and Angular.
-I also took courses in a self-taught way and I participated in a workshop, thanks to these I managed to incorporate HTML5, CSS3,Git and Github.
+Actualmente estoy estudiando la Tecnicatura Superior en Análisis de Sistemas. Las tecnologías incorporadas hasta el momento son:
+-C#.net 
+-Sql Server
+-Javascript
+-Typescript 
+-Angular
+-CSS3
+-HTML5
+Ademas realicé cursos de forma autodidacta y participé en un workshop, gracias a estos logré incorporar Git y Github.
 
-
-You can follow me in the next sites/plataforms.
+Puedes contactarme por las siguentes plataformas..
 - 📧 [Email: facuscarollo@gmail.com]
-- 📫 My personal [Linkedin](https://www.linkedin.com/in/facundo-salvador-carollo-a54236174/).
+- 📫 Mi [Linkedin](https://www.linkedin.com/in/facundo-salvador-carollo-a54236174/).
 
 
