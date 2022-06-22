@@ -1,12 +1,20 @@
  'Hola Mundo!! 👋'
 
 Actualmente estoy estudiando la Tecnicatura Superior en Análisis de Sistemas. Las tecnologías incorporadas hasta el momento son:
+
 -C#.net 
+
 -Sql Server
+
 -Javascript
+
 -Typescript 
+
 -Angular
+
 -CSS3
+
+-HTML5
 
 Ademas realicé cursos de forma autodidacta y participé en un workshop, gracias a estos logré incorporar Git y Github.
 
